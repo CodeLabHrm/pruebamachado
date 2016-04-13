@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{22061548-41F8-4B27-A204-D27449A0337B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2EF9F3D5-0B71-4D52-89F3-D8560566A1F9}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "WebLabPrueba", "src\WebLabPrueba\WebLabPrueba.xproj", "{E2DF3D6A-7FE6-4B2C-B594-34A8B03C0E8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2DF3D6A-7FE6-4B2C-B594-34A8B03C0E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2DF3D6A-7FE6-4B2C-B594-34A8B03C0E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2DF3D6A-7FE6-4B2C-B594-34A8B03C0E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2DF3D6A-7FE6-4B2C-B594-34A8B03C0E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E2DF3D6A-7FE6-4B2C-B594-34A8B03C0E8F} = {22061548-41F8-4B27-A204-D27449A0337B}
+	EndGlobalSection
+EndGlobal
